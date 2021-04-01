@@ -1,0 +1,24 @@
+{
+  "name": "game-book",
+  "version": "1.0.0",
+  "description": "一种互动性的娱乐行为。游戏有智力游戏和活动性游戏之分，前者如下棋、积木、麻将、打牌等，后者如追逐、接力及利用球、棒、绳等器材进行的活动，多为集体活动，并有情节和规则，具有竞赛性。当前的日常用语中的“游戏”多指各种平台上的电子游戏。电子游戏有单机游戏和网络游戏。",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2018011852/game-book.git"
+  },
+  "keywords": [],
+  "author": "2018011852",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/2018011852/game-book/issues"
+  },
+  "homepage": "https://github.com/2018011852/game-book#readme"
+}
